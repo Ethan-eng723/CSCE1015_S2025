@@ -10,3 +10,7 @@ ejm0278
 ejm0278
 ejm0278 Favorite Professor
 $(YOUR_FAVORITE_PROFESSOR)
+## EUID
+ejm0278
+## Favorite Professor
+Hardy
