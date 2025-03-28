@@ -6,3 +6,7 @@ Assignment for Module 9 --- Version Control
 am3287
 ## Favorite Professor
 asdf
+ejm0278
+ejm0278
+ejm0278 Favorite Professor
+$(YOUR_FAVORITE_PROFESSOR)
